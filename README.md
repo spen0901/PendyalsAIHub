@@ -26,10 +26,12 @@ This is Subrahmanya Pendyals AI Hub for all the concepts , AI Projects and Prese
 ---
 
 ## 🛠️ Tech Stack & Skills
-* **Cloud:** Azure, GCP
+* **Cloud:** Azure, GCP, AWS
 * **AI/ML:** Predictive Modeling, Generative AI, Linear Programming
 * **DevOps:** GitHub Actions, Docker, Kubernetes
-* **Programming and Frameworks:** Java EE, Springboot
+* **Programming and Frameworks, Modeling:** Java EE, Springboot, UML, BPMN
+* **Architecture Franeworks:** TOGAF
+  
 
 ---
 
